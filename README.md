@@ -82,12 +82,12 @@ git clone https://github.com/DenisEx8l0it/MitMToolkit.git
 cd MitMToolkit
 ```
 
-### Установка зависимостей
+### **Установка зависимостей:**
 ```bash
 pip3 install -r requirements.txt
 ```
 
-### Запуск программы
+### **Запуск программы:**
 ```bash
 sudo python3 main.py
 ```
