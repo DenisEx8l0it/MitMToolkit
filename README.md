@@ -1,4 +1,4 @@
-# 🕷 MitMToolkit - Автоматизаиця Man-in-the-Middle атак
+# 🕷 MitMToolkit - Автоматизаиця MitM атак
 
 ![MitMToolkit](https://img.shields.io/badge/Version-2.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
