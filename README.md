@@ -8,7 +8,7 @@
 
 **Мощный инструмент для тестирования Man-in-the-Middle атак с поддержкой ARP и DNS спуфинга** 🌐
 
-![Скриншот интерфейса main.py](https://raw.githubusercontent.com/DenisSh33l4r/MitMToolkit/main/MITM.jpg)
+![Скриншот интерфейса main.py](https://github.com/DenisSh33l4r/MitMToolkit/tree/main/image/MITM.jpg)
 
 ---
 
