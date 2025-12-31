@@ -8,7 +8,7 @@
 
 **MitMToolkit - Комплексный инструмент для тестирования ARP и DoS атак** 🌐
 
-![Скриншот интерфейса main.py](https://github.com/DenisSh33l4r/MitMToolkit/tree/main/image/MITM.png)
+![Скриншот интерфейса main.py](https://github.com/DenisSh33l4r/MitMToolkit/blob/main/image/MITM.png)
 
 ---
 
