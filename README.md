@@ -1,4 +1,4 @@
-# 🕷 MitMToolkit - Инструмент для тестирования Man-in-the-Middle атак
+# 🕷 MitMToolkit - Автоматизаиця Man-in-the-Middle атак
 
 ![MitMToolkit](https://img.shields.io/badge/Version-2.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Security](https://img.shields.io/badge/Security-Penetration%20Testing-orange)
 
-**🌐 MitMToolkit - Автоматизация ARP и DoS атак...**
+**🌐 MitMToolkit - Инструмент для автоматизация ARP и DoS атак...**
 
 ![Скриншот интерфейса main.py](https://github.com/DenisSh33l4r/MitMToolkit/blob/main/image/MITM.png)
 
