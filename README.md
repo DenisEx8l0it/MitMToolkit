@@ -35,7 +35,7 @@
 - **Манипуляция ARP-таблицами** для перенаправления пакетов
 - **Поддержка различных сетевых конфигураций**
 
-![Скриншот интерфейса ARP.py](https://github.com/DenisSh33l4r/MitMToolkit/tree/main/image/ARP.png)
+![Скриншот интерфейса ARP.py](https://github.com/DenisSh33l4r/MitMToolkit/blob/main/image/ARP.png)
 
 ##
 
@@ -44,7 +44,7 @@
 - **IP forwarding отключен** - трафик теряется
 - **Разрыв соединений** между целью и шлюзом
 
-![Скриншот интерфейса DNS.py](https://github.com/DenisSh33l4r/MitMToolkit/tree/main/image/DOS.png)
+![Скриншот интерфейса DNS.py](https://github.com/DenisSh33l4r/MitMToolkit/blob/main/image/DoS.png)
 
 ##
 
