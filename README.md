@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Security](https://img.shields.io/badge/Security-Penetration%20Testing-orange)
 
-**MitMToolkit - Комплексный инструмент для тестирования ARP и DoS атак** 🌐
+**🌐 MitMToolkit - Инструмент на Python для автоматизации ARP и DoS атак**
 
 ![Скриншот интерфейса main.py](https://github.com/DenisSh33l4r/MitMToolkit/blob/main/image/MITM.png)
 
